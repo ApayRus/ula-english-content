@@ -158,8 +158,20 @@
 		]
 	},
 	{
-		"id": "menuType",
-		"value": "full accordion",
-		"hidden": true
+		"id": "menu",
+		"title": "Меню",
+		"hidden": true,
+		"content": [
+			{
+				"id": "type",
+				"title": "Тип меню",
+				"value": "full accordion"
+			},
+			{
+				"id": "openedFolders",
+				"title": "Открытые папки",
+				"value": []
+			}
+		]
 	}
 ]

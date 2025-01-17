@@ -1,0 +1,580 @@
+[
+	{
+		"id": "1",
+		"title": "Unit 1. Hello everybody! am/is/are; my/her/his/her; Everyday objects; Numbers; Hello and goodbye",
+		"content": [
+			{ "id": "0", "type": "richAudio", "title": "Course info" },
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "1.1. Dialog between Paula and Rosa"
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "1.2. Dialog between Richard and Kurt"
+			},
+			{ "id": "3", "type": "richAudio", "title": "1.3. Countries" },
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "1.4. Where you/he/she are/is from?"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "1.5. Rafael Ramos tells about himself"
+			},
+			{
+				"id": "6",
+				"type": "richAudio",
+				"title": "1.6. Yasmina Kamal tells about herself"
+			},
+			{
+				"id": "7",
+				"type": "richAudio",
+				"title": "1.7. The alphabet song"
+			},
+			{ "id": "8", "type": "richAudio", "title": "1.8. Everyday objects" },
+			{ "id": "9", "type": "richAudio", "title": "1.9. Numbers" },
+			{
+				"id": "10",
+				"type": "richAudio",
+				"title": "1.10. Numbers in dialogs"
+			},
+			{
+				"id": "11",
+				"type": "richAudio",
+				"title": "1.11. Phone conversations"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"title": "Unit 2. Meeting people. am/is/are - questions and negatives; Possessive's; Family; Opposites; In a cafe",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "2.1. Questions in dialogs"
+			},
+			{ "id": "2", "type": "richAudio", "title": "2.2. Negatives" },
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "2.3. Patrick and his family"
+			},
+			{ "id": "4", "type": "richAudio", "title": "2.4. Opposites" },
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "2.5. Dorita's letter to Miguel"
+			},
+			{ "id": "6", "type": "richAudio", "title": "2.6. 3 small dialogs" },
+			{ "id": "7", "type": "richAudio", "title": "2.7. Prices" },
+			{ "id": "8", "type": "richAudio", "title": "2.8. Prices" },
+			{ "id": "9", "type": "richAudio", "title": "2.9. In a shop" },
+			{ "id": "10", "type": "richAudio", "title": "2.10. In a cafe" },
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"title": "Unit 3. The world of work. he/she/it; Questions and negatives; Jobs; What time is it?",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "3.1. Ali - scientist, Bob - doctor"
+			},
+			{ "id": "2", "type": "richAudio", "title": "3.2. Check facts" },
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "3.3. Questions about Alison"
+			},
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "3.4. Questions about Bob"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "3.5. Philippe. Keiko. Mark"
+			},
+			{
+				"id": "6",
+				"type": "richAudio",
+				"title": "3.6. Questions and negatives"
+			},
+			{ "id": "7", "type": "richAudio", "title": "3.7. 4 Small dialogs" },
+			{ "id": "8", "type": "richAudio", "title": "3.8. It’s X o’clock" },
+			{ "id": "9", "type": "richAudio", "title": "3.9. Dialog about time" },
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"title": "Unit 4. Take it easy! Present Simple 2; I/you/we/they; Leisure activities; Social expressions",
+		"content": [
+			{ "id": "1", "type": "richAudio", "title": "4.1. How I spend time" },
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "4.2. Dialog about work"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "4.3. Questions and answers"
+			},
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "4.4. Questions and answers"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "4.5. The seasons of the year"
+			},
+			{ "id": "6", "type": "richAudio", "title": "4.6. 3 dialogs" },
+			{
+				"id": "7",
+				"type": "richAudio",
+				"title": "4.7. Social expressions"
+			},
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "4.8. Extra ideas. Units 1-4. Song Colors"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "5",
+		"title": "Unit 5. Where do you live? There is/are; Prepositions; some/any; this/that; Furniture; Directions 1",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "5.1. TV, radio or books?"
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "5.2. Position of things in a room"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "5.3. A dialog between Helen and Bob"
+			},
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "5.4. Position of things, my daily routine"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "5.5. 4 stories about houses"
+			},
+			{ "id": "6", "type": "richAudio", "title": "5.6. Directions" },
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "6",
+		"title": "Unit 6. Can you speak English? can/can't/could/couldn't; was/were; Words that sound the same; On the phone",
+		"content": [
+			{ "id": "1", "type": "richAudio", "title": "6.1. Can, can't" },
+			{ "id": "2", "type": "richAudio", "title": "6.2. Can, can't" },
+			{ "id": "3", "type": "richAudio", "title": "6.3. Can, can't" },
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "6.4. What I can and what can't"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "6.5. We were at school"
+			},
+			{ "id": "6", "type": "richAudio", "title": "6.6. Dialog. Couldn't" },
+			{ "id": "7", "type": "richAudio", "title": "6.7. Numbers" },
+			{ "id": "8", "type": "richAudio", "title": "6.8. 3 dialogs. Can" },
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "7",
+		"title": "Unit 7. Then and now. Past Simple 1 - regular verbs; Irregular verbs; Silent letters; Special occasions",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "7.1. Mattie Smith is 91 years old (story)"
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "7.2. Mattie Smith story part 2"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "7.3. Regular verbs in past simple"
+			},
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "7.4. I worked from 6 a.m until 10 p.m."
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "7.5. Questions to previous story"
+			},
+			{
+				"id": "6",
+				"type": "richAudio",
+				"title": "7.6. Regular verbs in past simple, part 2"
+			},
+			{
+				"id": "7",
+				"type": "richAudio",
+				"title": "7.7. Irregular verbs in past simple"
+			},
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "7.8. What do I remember of the nineties"
+			},
+			{ "id": "9", "type": "richAudio", "title": "7.9. Words 1" },
+			{ "id": "10", "type": "richAudio", "title": "7.10. Words 2" },
+			{
+				"id": "11",
+				"type": "richAudio",
+				"title": "7.11. 6 congratulations"
+			},
+			{
+				"id": "12",
+				"type": "richAudio",
+				"title": "7.12. Congratulation phrases"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "8",
+		"title": "Unit 8. How long ago? Past Simple 2 - negatives/ago; Which word is different? What's the date?",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "8.1. Jeans, TV, aspirin stories"
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "8.2. Questions to previous audio"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "8.3. Marco Polo spaghetti, Napoleon cat"
+			},
+			{ "id": "4", "type": "richAudio", "title": "8.4. Words" },
+			{
+				"id": "6",
+				"type": "richAudio",
+				"title": "8.6. Love on the Internet"
+			},
+			{ "id": "7", "type": "richAudio", "title": "8.7. Ordinal numbers" },
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "8.8. The first of April, April the first"
+			},
+			{ "id": "9", "type": "richAudio", "title": "8.9. Different dates" },
+			{
+				"id": "10",
+				"type": "richAudio",
+				"title": "8.10. Extra ideas, units 5-8. Song: I Just Called to Say I Love You"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "9",
+		"title": "Unit 9. Food you like! Count and uncount nouns; I like/I'd like; much/many; Food; Polite requests",
+		"content": [
+			{ "id": "1", "type": "richAudio", "title": "9.1. I don’t like tea" },
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "9.2. Would you like some tea or coffee?"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "9.3. Questions and answers, 1"
+			},
+			{ "id": "4", "type": "richAudio", "title": "9.4. Questions" },
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "9.5. Answers to previous audio"
+			},
+			{ "id": "6", "type": "richAudio", "title": "9.6. Dialog in a cafe" },
+			{ "id": "7", "type": "richAudio", "title": "9.7. My favorite food" },
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "9.8. Polite requests, 1"
+			},
+			{
+				"id": "9",
+				"type": "richAudio",
+				"title": "9.9. Polite requests, 2"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "10",
+		"title": "Unit 10. Bigger and better! Comparatives and superlatives; have got; Town and country; Directions 2",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "10.1. The country is cheaper and safer than the city"
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "10.2. Different cities"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "10.3. Why did you leave London? You had a good job"
+			},
+			{ "id": "4", "type": "richAudio", "title": "10.4. Superlatives" },
+			{ "id": "5", "type": "richAudio", "title": "10.5. Very" },
+			{ "id": "7", "type": "richAudio", "title": "10.7. Words" },
+			{ "id": "8", "type": "richAudio", "title": "10.8. Directions, 1" },
+			{ "id": "9", "type": "richAudio", "title": "10.9. Directions, 2" },
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "11",
+		"title": "Unit 11. Looking good! Present Continuous; Whose; Clothes; Words that rhyme; In a closes shop",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "11.1. Monica and Olivier on the party"
+			},
+			{ "id": "2", "type": "richAudio", "title": "11.2. Whose" },
+			{ "id": "3", "type": "richAudio", "title": "11.3. Who's vs whose" },
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "11.4. Whose is this tennis racket?"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "11.5. Song: What a wonderful world"
+			},
+			{ "id": "6", "type": "richAudio", "title": "11.6. Words" },
+			{ "id": "7", "type": "richAudio", "title": "11.7. Tongue twisters" },
+			{ "id": "8", "type": "richAudio", "title": "11.8. In a closes shop" },
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "12",
+		"title": "Unit 12. Life is an adventure! going to future; infinitive of purpose; The weather; Making suggestions",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "12.1. When I grow up I’m going to be a ballet dancer."
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "12.2. Questions to previous audio, 1"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "12.3. Questions to previous audio, 1"
+			},
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "12.4. X is going to..."
+			},
+			{ "id": "5", "type": "richAudio", "title": "12.5. I'm going to..." },
+			{ "id": "6", "type": "richAudio", "title": "12.6. The weather" },
+			{
+				"id": "7",
+				"type": "richAudio",
+				"title": "12.7. It’s raining again"
+			},
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "12.8. Questions and answers"
+			},
+			{
+				"id": "9",
+				"type": "richAudio",
+				"title": "12.9. Extra ideas, units 9-12. Song: Wonderful Tonight"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "13",
+		"title": "Unit 13. How terribly clever! Question forms; Adverbs and adjectives; Describing feelings; Catching a train",
+		"content": [
+			{ "id": "1", "type": "richAudio", "title": "13.1. Random facts..." },
+			{ "id": "2", "type": "richAudio", "title": "13.2. Question forms" },
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "13.3. Burglars in my house"
+			},
+			{ "id": "4", "type": "richAudio", "title": "13.4. A train journey" },
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "13.5. The tale of horribly good Bertha"
+			},
+			{
+				"id": "6",
+				"type": "richAudio",
+				"title": "13.6. Trains from Oxford"
+			},
+			{
+				"id": "7",
+				"type": "richAudio",
+				"title": "13.7. Catching a train"
+			},
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "13.7. Catching a train, 2"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	},
+	{
+		"id": "14",
+		"title": "Unit 14. Have you ever? Present perfect + ever, never, yet, and just; At the airport",
+		"content": [
+			{
+				"id": "1",
+				"type": "richAudio",
+				"title": "14.1. I’ve never been to Australia"
+			},
+			{
+				"id": "2",
+				"type": "richAudio",
+				"title": "14.2. Questions and answers"
+			},
+			{
+				"id": "3",
+				"type": "richAudio",
+				"title": "14.3. Yes, I’ve lived in a foreign country"
+			},
+			{
+				"id": "4",
+				"type": "richAudio",
+				"title": "14.4. Story about the travel"
+			},
+			{
+				"id": "5",
+				"type": "richAudio",
+				"title": "14.5. Leaving on a jet plane"
+			},
+			{
+				"id": "6",
+				"type": "richAudio",
+				"title": "14.6. British Airways flight BA 516 to Geneva"
+			},
+			{ "id": "7", "type": "richAudio", "title": "14.7. At the airport" },
+			{
+				"id": "8",
+				"type": "richAudio",
+				"title": "14.8. Extra ideas, units 13-14. Song: Summertime"
+			},
+			{
+				"id": "grammar",
+				"type": "html",
+				"title": "Grammar"
+			}
+		]
+	}
+]

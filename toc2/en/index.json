@@ -1,0 +1,22 @@
+[
+	{
+		"id": "books",
+		"title": "Books",
+		"content": []
+	},
+	{
+		"id": "courses",
+		"title": "Courses",
+		"content": []
+	},
+	{
+		"id": "podcasts",
+		"title": "Podcasts",
+		"content": []
+	},
+	{
+		"id": "cartoons",
+		"title": "Cartoons",
+		"content": []
+	}
+]
