@@ -4993,5 +4993,197 @@
 				"mediaLink": "https://archive.org/download/kungfu-panda-30/30.mp4"
 			}
 		]
+	},
+	{
+		"id": "puss-in-boots",
+		"title": "Puss in Boots",
+		"content": [
+			{
+				"id": 1,
+				"title": "Introduction",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/1.mp4"
+			},
+			{
+				"id": 2,
+				"title": "Bar",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/2.mp4"
+			},
+			{
+				"id": 3,
+				"title": "Magic Beans",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/3.mp4"
+			},
+			{
+				"id": 4,
+				"title": "Chasing the Competitor",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/4.mp4"
+			},
+			{
+				"id": 5,
+				"title": "Dance Contest",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/5.mp4"
+			},
+			{
+				"id": 6,
+				"title": "Humpty Dumpty",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/6.mp4"
+			},
+			{
+				"id": 7,
+				"title": "Sunbeam",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/7.mp4"
+			},
+			{
+				"id": 8,
+				"title": "Childhood",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/8.mp4"
+			},
+			{
+				"id": 9,
+				"title": "Humpty's Ideas",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/9.mp4"
+			},
+			{
+				"id": 10,
+				"title": "Boots",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/10.mp4"
+			},
+			{
+				"id": 11,
+				"title": "Setup",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/11.mp4"
+			},
+			{
+				"id": 12,
+				"title": "Deal",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/12.mp4"
+			},
+			{
+				"id": 13,
+				"title": "Heist",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/13.mp4"
+			},
+			{
+				"id": 14,
+				"title": "Race",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/14.mp4"
+			},
+			{
+				"id": 15,
+				"title": "Cat's Story",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/15.mp4"
+			},
+			{
+				"id": 16,
+				"title": "Planting Seeds",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/16.mp4"
+			},
+			{
+				"id": 17,
+				"title": "Tree",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/17.mp4"
+			},
+			{
+				"id": 18,
+				"title": "Castle",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/18.mp4"
+			},
+			{
+				"id": 19,
+				"title": "Golden Eggs",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/19.mp4"
+			},
+			{
+				"id": 20,
+				"title": "Landing",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/20.mp4"
+			},
+			{
+				"id": 21,
+				"title": "Celebration",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/21.mp4"
+			},
+			{
+				"id": 22,
+				"title": "Desert",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/22.mp4"
+			},
+			{
+				"id": 23,
+				"title": "San Ricardo",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/23.mp4"
+			},
+			{
+				"id": 24,
+				"title": "Prison",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/24.mp4"
+			},
+			{
+				"id": 25,
+				"title": "Escape",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/25.mp4"
+			},
+			{
+				"id": 26,
+				"title": "Humpty's Repentance",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/26.mp4"
+			},
+			{
+				"id": 27,
+				"title": "Goose Invasion",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/27.mp4"
+			},
+			{
+				"id": 28,
+				"title": "Bridge",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/28.mp4"
+			},
+			{
+				"id": 29,
+				"title": "Hero's Celebration",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/29.mp4"
+			},
+			{
+				"id": 30,
+				"title": "Credits 1",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/30.mp4"
+			},
+			{
+				"id": 31,
+				"title": "Credits 2",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/puss-in-boots-31/31.mp4"
+			}
+		]
 	}
 ]
